@@ -3177,9 +3177,8 @@ footer {
 footer a, footer a:visited {
     color: #216886;
 }
-
-footer a:hover, footer a:focus {
-    color: #FFFFFF;
+.custom-color {
+    color: #216886; /* Replace #FF5733 with your desired color code */
 }
 
 .footer-logo {
